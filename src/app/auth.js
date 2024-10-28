@@ -3,7 +3,7 @@ import GoogleProvider from "next-auth/providers/google";
 import GithubProvider from "next-auth/providers/github";
 
 export const {
-  handlers" { GET, POST },
+  handlers: { GET, POST },
   auth,
 
 
